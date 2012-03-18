@@ -5,4 +5,4 @@
 
 To get started, checkout http://tkrotoff.github.com/famfamfam_flags/
 
-If you are using Ruby on Rails, check http://tkrotoff.github.com/famfamfam_flags_rails
+If you are using Ruby on Rails, check https://github.com/tkrotoff/famfamfam_flags_rails
