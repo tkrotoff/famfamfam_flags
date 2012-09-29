@@ -1,5 +1,4 @@
-[FAMFAMFAM flag icons](http://tkrotoff.github.com/famfamfam_flags/)
-======================
+# [FAMFAMFAM flag icons](http://tkrotoff.github.com/famfamfam_flags/)
 
 [FAMFAMFAM flag icons](http://famfamfam.com/lab/icons/flags/) by Mark James.
 
