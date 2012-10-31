@@ -8,4 +8,5 @@ If you are using Ruby on Rails, check https://github.com/tkrotoff/famfamfam_flag
 
 ## Sprite generation using glue
 
+    rm bl.png bv.png famfamfam-flags.png gf.png hm.png mf.png re.png sj.png um.png
     glue . . --sprite-namespace= --namespace=famfamfam-flag --each-template="%(class_name)s { background-position: %(x)s %(y)s; width: %(width)s; height: %(height)s; }\n"
