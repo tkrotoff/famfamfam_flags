@@ -35,6 +35,7 @@
 .famfamfam-flag-uz { background-position: -48px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-uy { background-position: 0px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-us { background-position: -16px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-um { background-position: -16px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-ug { background-position: -32px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-ua { background-position: -48px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-tz { background-position: -64px 0px; width: 16px; height: 11px; }
@@ -98,6 +99,8 @@
 .famfamfam-flag-nu { background-position: -112px -88px; width: 16px; height: 11px; }
 .famfamfam-flag-nr { background-position: -112px -99px; width: 16px; height: 11px; }
 .famfamfam-flag-no { background-position: 0px -110px; width: 16px; height: 11px; }
+.famfamfam-flag-bv { background-position: 0px -110px; width: 16px; height: 11px; }
+.famfamfam-flag-sj { background-position: 0px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-nl { background-position: -16px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-ni { background-position: -32px -110px; width: 16px; height: 11px; }
 .famfamfam-flag-ng { background-position: -48px -110px; width: 16px; height: 11px; }
@@ -187,6 +190,10 @@
 .famfamfam-flag-gb { background-position: -176px -22px; width: 16px; height: 11px; }
 .famfamfam-flag-ga { background-position: -176px -33px; width: 16px; height: 11px; }
 .famfamfam-flag-fr { background-position: -176px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-gf { background-position: -176px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-re { background-position: -176px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-mf { background-position: -176px -44px; width: 16px; height: 11px; }
+.famfamfam-flag-bl { background-position: -176px -44px; width: 16px; height: 11px; }
 .famfamfam-flag-fo { background-position: -176px -55px; width: 16px; height: 11px; }
 .famfamfam-flag-fm { background-position: -176px -66px; width: 16px; height: 11px; }
 .famfamfam-flag-fk { background-position: -176px -77px; width: 16px; height: 11px; }
@@ -251,6 +258,7 @@
 .famfamfam-flag-ax { background-position: -160px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-aw { background-position: -176px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-au { background-position: -192px -188px; width: 16px; height: 11px; }
+.famfamfam-flag-hm { background-position: -192px -188px; width: 16px; height: 11px; }
 .famfamfam-flag-at { background-position: -208px 0px; width: 16px; height: 11px; }
 .famfamfam-flag-as { background-position: -208px -11px; width: 16px; height: 11px; }
 .famfamfam-flag-ar { background-position: -208px -22px; width: 16px; height: 11px; }
@@ -265,4 +273,3 @@
 .famfamfam-flag-ad { background-position: -208px -121px; width: 16px; height: 11px; }
 .famfamfam-flag-np { background-position: -208px -132px; width: 9px; height: 11px; }
 .famfamfam-flag-ch { background-position: -208px -143px; width: 11px; height: 11px; }
-
