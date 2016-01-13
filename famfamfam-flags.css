@@ -5,8 +5,8 @@
  * <i class="famfamfam-flag-fr"> France</i>
  * <i class="famfamfam-flag-us"> United States</i>
  */
-
-[class^="famfamfam-flag"] {
+[class^="famfamfam-flag"],
+[class*=" famfamfam-flag"] {
   display: inline-block;
   width: 16px;
   height: 11px;
